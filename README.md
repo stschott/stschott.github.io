@@ -1,1 +1,3 @@
-# stschott.github.io
+# Stefan Schott
+
+I am currently a senior Ph.D. student and research associate in the [Secure Software Engineering](https://www.hni.uni-paderborn.de/en/sse/) research group, led by [Eric Bodden](https://www.bodden.de/) at Paderborn University, where I have been working since November, 2021. My research focuses on the reliable identification of known-to-be-vulnerable dependency inclusions in Java projects, particularly in scenarios where state-of-the-art dependency scanners fall short. My other research interests include software supply chain security and static application security testing (SAST). I am also one of the primary maintainers of the Java static analysis framework [SootUp](https://github.com/soot-oss/SootUp), which has more than 700 stars on GitHub.
