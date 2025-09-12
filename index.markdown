@@ -7,6 +7,7 @@ I am currently a senior Ph.D. student and research associate in the [Secure Soft
 ## Research Interests
 
 - Open Source Security, specifically detecting inclusions of known-to-be-vulnerable OSS dependencies
+- Software Composition Analysis (SCA)
 - Software Supply Chain Security
 - Static Analysis, specifically Static Application Security Testing (SAST)
 - Code Clone Detection
