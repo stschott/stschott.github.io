@@ -52,7 +52,7 @@ Cedric Richter, Jan Haltermann, Marie-Christine Jakobs, Felix Pauck, **Stefan Sc
 - [Summer 2023 & Winter 2023/24](https://www.hni.uni-paderborn.de/sse/lehre/projektgruppen-vergangener-semester/ss-ws-design-it-develop-it-deploy-it): Project Group: Design it, Develop it, Deploy it: Building the next generation cyber security competition platform (Master's course) 
 - Summer 2023: Designing code analyses for large-scale software systems 2 (Master's Course)
 - Winter 2022/23: Softwaretechnikpraktikum (Bachelor's Course)
-- Summer 2022: Secure Software Engineering (Master's Course)
+- Summer 2022: Secure Software Engineering (Bachelor's Course)
 
 
 ## Thesis Supervision
