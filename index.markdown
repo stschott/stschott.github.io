@@ -14,7 +14,9 @@ I am currently a senior Ph.D. student and research associate in the [Secure Soft
 
 ## Publications
 
-Jonas Klauke, Tom Ohlmer, **Stefan Schott**, Serene Elisa Ponta, Wolfram Fischer and Eric Bodden. "A Soundness and Precision Benchmark for Java Debloating Tools." Proceedings of the 2025 Workshop on Software Supply Chain Offensive Research and Ecosystem Defenses (SCORED). 2025. (to appear), [[code]](https://github.com/secure-software-engineering/Deblometer)
+**Stefan Schott**, Serena Elisa Ponta, Wolfram Fischer, Jonas Klauke and Eric Bodden. "Bytecode-centric Detection of Known-to-be-vulnerable Dependencies in Java Projects." 2026 IEEE/ACM 48th International Conference on Software Engineering (ICSE). 2026. **(to appear)**
+
+Jonas Klauke, Tom Ohlmer, **Stefan Schott**, Serene Elisa Ponta, Wolfram Fischer and Eric Bodden. "A Soundness and Precision Benchmark for Java Debloating Tools." Proceedings of the 2025 Workshop on Software Supply Chain Offensive Research and Ecosystem Defenses (SCORED). 2025. **(to appear)**, [[code]](https://github.com/secure-software-engineering/Deblometer)
 
 **Stefan Schott**, Wolfram Fischer, Serena Elisa Ponta, Jonas Klauke and Eric Bodden. "Compilation of Commit Changes Within Java Source Code Repositories." 2024 IEEE International Conference on Software Maintenance and Evolution (ICSME). IEEE, 2024. [[DOI]](https://doi.org/10.1109/ICSME58944.2024.00038), [[preprint]](https://arxiv.org/abs/2407.17853), [[code]](https://github.com/stschott/jess)
 
